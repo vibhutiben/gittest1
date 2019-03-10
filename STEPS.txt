@@ -1,2 +1,8 @@
 1. git clone url (this will clone project from cloud to your local machine)
 2. git status (should show changes on your local repository)
+3.git config --local user.name
+4.git config --local user.email
+5.git add .
+6.git commit -m 'mess'
+7.git push origin master
+8.git remote add origin url
