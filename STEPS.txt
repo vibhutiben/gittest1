@@ -1,0 +1,2 @@
+1. git clone url (this will clone project from cloud to your local machine)
+2. git status (should show changes on your local repository)
